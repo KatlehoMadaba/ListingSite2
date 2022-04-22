@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(185, 185, 185);
+    background:linear-gradient(rgba(8, 3, 21, 0.527), rgba(5, 2, 23, 0.5)),url('/Images/background.jpg');
+}
+.div1{
+    width:350px;
+    margin:auto;
+    margin:10 0 0 450px;
+    margin-top: 80px;
+    overflow: hidden;
+    padding: 75px;
+    border-radius: 10px;
+    background: rgb(98, 45, 167);
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
+label{
+    color: #fff;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+.inputText{
+    width:300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 8px;
+}
+#logButton{
+    width:100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 7px;
+    color: rgb(33, 2, 72);
+    font-size: 18px;
+}
+#logButton:hover{
+    background-color:rgb(185, 185, 185);
+}
+.pReg{
+    color: white;
+}
